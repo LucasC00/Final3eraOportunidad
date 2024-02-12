@@ -1,0 +1,7 @@
+se uso wamp server para levantar el proyecto localmente usando motor apache, se adjunta imagenes de las pruebas, 
+se debe de ejecutar en la ruta del proyecto los comandos:
+
+composer init
+composer install
+composer require vlucas/phpdotenv
+
